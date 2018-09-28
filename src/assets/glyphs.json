@@ -1,0 +1,21 @@
+[
+  {
+    "symbol": [2, 8, 10],
+    "keywords": [
+      "abandon",
+      "leave"
+    ]
+  },
+  {
+    "symbol": [1, 6, 5, 7],
+    "keywords": [
+      "adapt"
+    ]
+  },
+  {
+    "symbol": [0, 8],
+    "keywords": [
+      "advance"
+    ]
+  }
+]

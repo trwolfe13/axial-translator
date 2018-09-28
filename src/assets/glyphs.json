@@ -1,21 +1,26 @@
 [
   {
-    "symbol": [2, 8, 10],
-    "keywords": [
-      "abandon",
-      "leave"
-    ]
+    "symbol": [5, 13, 18],
+    "keywords": [ "abandon", "leave" ]
   },
   {
-    "symbol": [1, 6, 5, 7],
-    "keywords": [
-      "adapt"
-    ]
+    "symbol": [3, 11, 9, 12],
+    "keywords": [ "adapt" ]
   },
   {
-    "symbol": [0, 8],
-    "keywords": [
-      "advance"
-    ]
+    "symbol": [0, 13],
+    "keywords": [ "advance" ]
+  },
+  {
+    "symbol": [9, 5, 15, 9],
+    "keywords": [ "after" ]
+  },
+  {
+    "symbol": [13, 6, 11, 7, 12],
+    "keywords": [ "again", "repeat" ]
+  },
+  {
+    "symbol": [0, 5, 15, 18, 13, 3, 0],
+    "keywords": [ "all", "every", "everything" ]
   }
 ]

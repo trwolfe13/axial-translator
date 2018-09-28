@@ -1,4 +1,4 @@
 export interface Glyph {
-  symbol: [number, number][];
+  symbol: number[];
   names: string;
 }

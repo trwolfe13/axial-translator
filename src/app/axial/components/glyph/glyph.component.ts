@@ -34,8 +34,8 @@ export class GlyphComponent {
   get lines(): [number, number, number, number][] {
     const result = [];
     if (this.glyph) {
-      let previousNode;
-      this.glyph.symbol.forEach(n => {
+      let previousNode: number;
+      this.glyph.symbol.forEach((n: number) => {
         if (previousNode !== undefined) {
           const line = [
             this.nodes[previousNode][0],

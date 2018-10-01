@@ -1,7 +1,7 @@
 <div class="result form-group">
   <ax-glyph class="result-image" [glyph]="glyph"></ax-glyph>
   <div class="result-body">
-    <h5 class="result-title">{{ glyph.meanings[0] | titlecase }}</h5>
+    <a [routerLink]="['/related', glyph.meanings[0]]"><h5 class="result-title">{{ glyph.meanings[0] | titlecase }}</h5></a>
     <div class="result-synonyms">{{ synonyms(glyph) }}</div>
   </div>
 </div>

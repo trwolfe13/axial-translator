@@ -5,16 +5,16 @@ import { SharedModule } from '@ax/shared';
 
 import * as Components from './components';
 import { effects, axialFeature, axialReducer } from './store';
-import { AxialComponent } from './axial.component';
 import { AxialRoutingModule } from './axial.routing';
 import { TitleCasePipe } from '@angular/common';
 
 const COMPONENTS = [
-  AxialComponent,
   Components.GlyphComponent,
   Components.SearchComponent,
+  Components.FilterComponent,
   Components.SearchResultsComponent,
-  Components.SearchResultComponent
+  Components.SearchResultComponent,
+  Components.RelatedComponent
 ];
 
 @NgModule({
@@ -29,9 +29,6 @@ const COMPONENTS = [
   ],
   providers: [
     TitleCasePipe
-  ],
-  exports: [
-    AxialComponent
   ]
 })
 export class AxialModule { }

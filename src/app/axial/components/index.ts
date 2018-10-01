@@ -1,4 +1,3 @@
 export * from './glyph';
+export * from './related';
 export * from './search';
-export * from './search-results';
-export * from './search-result';

@@ -11,5 +11,5 @@ import { Store } from '@ngrx/store';
 export class AxialComponent {
   constructor(private store: Store<AppState>) {
     this.store.dispatch(new LoadGlyphs());
-  } 
+  }
 }

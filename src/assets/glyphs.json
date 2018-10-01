@@ -101,6 +101,98 @@
   },
   {
     "symbol": [8, 3, 6, 7],
-    "meanings": [ "courage" ]
+    "meanings": [ "courage", "bravery" ]
+  },
+  {
+    "symbol": [2, 8],
+    "meanings": [ "create", "creation" ]
+  },
+  {
+    "symbol": [3, 5, 10, 3],
+    "meanings": [ "creativity" ]
+  },
+  {
+    "symbol": [4, 2, 9, 1, 8, 6],
+    "meanings": [ "creativity", "mind", "thought", "idea" ]
+  },
+  {
+    "symbol": [0, 3, 5, 10],
+    "meanings": [ "danger" ]
+  },
+  {
+    "symbol": [0, 4, 6, 10],
+    "meanings": [ "data", "signal", "message" ]
+  },
+  {
+    "symbol": [1, 10, 2],
+    "meanings": [ "defend" ]
+  },
+  {
+    "symbol": [2, 9, 10],
+    "meanings": [ "destination" ]
+  },
+  {
+    "symbol": [3, 5, 4, 7, 6, 10],
+    "meanings": [ "destiny" ]
+  },
+  {
+    "symbol": [1, 9],
+    "meanings": [ "destroy", "destruction" ]
+  },
+  {
+    "symbol": [3, 5, 8],
+    "meanings": [ "deteriorate", "erode" ]
+  },
+  {
+    "symbol": [8, 5, 9],
+    "meanings": [ "die" ]
+  },
+  {
+    "symbol": [6, 5, 7, 4, 2],
+    "meanings": [ "difficult" ]
+  },
+  {
+    "symbol": [2, 9, 10, 8],
+    "meanings": [ "discover" ]
+  },
+  {
+    "symbol": [0, 1, 8],
+    "meanings": [ "distance", "outside" ]
+  },
+  {
+    "symbol": [10, 6, 4],
+    "meanings": [ "easy" ]
+  },
+  {
+    "symbol": [0, 2, 10, 0],
+    "meanings": [ "end", "close", "finally" ]
+  },
+  {
+    "symbol": [3, 4, 5, 3, 0, 2, 9, 10, 8],
+    "meanings": [ "enlightened", "enlightenment" ]
+  },
+  {
+    "symbol": [6, 3, 4, 7],
+    "meanings": [ "equal" ]
+  },
+  {
+    "symbol": [6, 3, 4, 2, 0],
+    "meanings": [ "escape" ]
+  },
+  {
+    "symbol": [0, 5, 3, 6],
+    "meanings": [ "evolution", "success", "progress" ]
+  },
+  {
+    "symbol": [0, 5, 4, 7],
+    "meanings": [ "failure" ]
+  },
+  {
+    "symbol": [3, 4, 7, 2],
+    "meanings": [ "fear" ]
+  },
+  {
+    "symbol": [0, 4, 2, 9],
+    "meanings": [ "follow" ]
   }
 ]

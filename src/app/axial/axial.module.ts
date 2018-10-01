@@ -11,7 +11,10 @@ import { TitleCasePipe } from '@angular/common';
 
 const COMPONENTS = [
   AxialComponent,
-  Components.GlyphComponent
+  Components.GlyphComponent,
+  Components.SearchComponent,
+  Components.SearchResultsComponent,
+  Components.SearchResultComponent
 ];
 
 @NgModule({

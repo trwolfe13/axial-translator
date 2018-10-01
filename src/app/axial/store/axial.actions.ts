@@ -13,4 +13,10 @@ export class SetGlyphs implements Action {
   constructor(public glyphs: Glyph[]) { }
 }
 
-export type AxialAction = LoadGlyphs | SetGlyphs;
+export class SetFilter implements Action {
+  public static readonly TYPE = '[Axial] Set Filter';
+  readonly type = SetFilter.TYPE;
+  constructor(public filter: string) { }
+}
+
+export type AxialAction = LoadGlyphs | SetGlyphs | SetFilter;

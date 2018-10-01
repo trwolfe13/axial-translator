@@ -1,0 +1,28 @@
+$image-size: 64px;
+$padding: 8px;
+
+.result {
+  display: flex;
+  flex-direction: row;
+  height: $image-size + $padding * 2;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+  margin-bottom: 1rem;
+  padding: $padding;
+  
+  .result-image {
+    width: $image-size;
+  }
+
+  .result-body {
+    margin-left: 2rem;
+
+    .result-title {
+      color: #222;
+    }
+
+    .result-synonyms {
+      color: #495057;
+    }
+  }
+}

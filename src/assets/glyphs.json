@@ -194,5 +194,349 @@
   {
     "symbol": [0, 4, 2, 9],
     "meanings": [ "follow" ]
+  },
+  {
+    "symbol": [6, 8],
+    "meanings": [ "forget" ]
+  },
+  {
+    "symbol": [2, 4, 7, 9],
+    "meanings": [ "future", "forward" ]
+  },
+  {
+    "symbol": [1, 6],
+    "meanings": [ "gain" ]
+  },
+  {
+    "symbol": [1, 3, 6, 7, 4, 2],
+    "meanings": [ "government", "city", "civilization", "structure" ]
+  },
+  {
+    "symbol": [6, 3, 8],
+    "meanings": [ "grow" ]
+  },
+  {
+    "symbol": [5, 4, 0, 3, 9],
+    "meanings": [ "harm" ]
+  },
+  {
+    "symbol": [0, 4, 6, 10, 7, 3, 0],
+    "meanings": [ "harmony", "peace" ]
+  },
+  {
+    "symbol": [7, 5, 6, 10],
+    "meanings": [ "have" ]
+  },
+  {
+    "symbol": [1, 5, 6, 7],
+    "meanings": [ "help" ]
+  },
+  {
+    "symbol": [3, 4, 2, 7, 6],
+    "meanings": [ "hide" ]
+  },
+  {
+    "symbol": [3, 4, 10],
+    "meanings": [ "i", "me", "self" ]
+  },
+  {
+    "symbol": [7, 9],
+    "meanings": [ "ignore" ]
+  },
+  {
+    "symbol": [4, 6, 3, 5],
+    "meanings": [ "imperfect" ]
+  },
+  {
+    "symbol": [2, 5, 7],
+    "meanings": [ "improve" ]
+  },
+  {
+    "symbol": [5, 6, 3, 5, 10],
+    "meanings": [ "impure" ]
+  },
+  {
+    "symbol": [2, 5, 3, 6, 8],
+    "meanings": [ "intelligence" ]
+  },
+  {
+    "symbol": [0, 5, 1, 8, 5, 10],
+    "meanings": [ "interrupt" ]
+  },
+  {
+    "symbol": [2, 5, 1, 8, 10],
+    "meanings": [ "journey" ]
+  },
+  {
+    "symbol": [3, 5, 4, 10, 3],
+    "meanings": [ "knowledge" ]
+  },
+  {
+    "symbol": [0, 1, 8, 6, 10],
+    "meanings": [ "lead" ]
+  },
+  {
+    "symbol": [8, 6, 3, 1, 0, 2, 4, 7, 9],
+    "meanings": [ "legacy" ]
+  },
+  {
+    "symbol": [3, 5, 4],
+    "meanings": [ "less" ]
+  },
+  {
+    "symbol": [0, 2, 5, 3, 8],
+    "meanings": [ "liberate" ]
+  },
+  {
+    "symbol": [5, 4, 7, 3, 6],
+    "meanings": [ "lie" ]
+  },
+  {
+    "symbol": [2, 6, 3, 8],
+    "meanings": [ "live again", "reincarnate" ]
+  },
+  {
+    "symbol": [7, 2],
+    "meanings": [ "lose", "loss" ]
+  },
+  {
+    "symbol": [2, 7, 3, 8],
+    "meanings": [ "message" ]
+  },
+  {
+    "symbol": [3, 5, 10, 6, 3],
+    "meanings": [ "mind", "idea", "thought" ]
+  },
+  {
+    "symbol": [6, 5, 7],
+    "meanings": [ "more" ]
+  },
+  {
+    "symbol": [1, 3, 0, 4, 3, 6],
+    "meanings": [ "mystery" ]
+  },
+  {
+    "symbol": [10, 0, 4, 5, 3, 0],
+    "meanings": [ "hunter", "hunt", "soldier" ]
+  },
+  {
+    "symbol": [8, 6, 3, 4, 7, 9],
+    "meanings": [ "nature" ]
+  },
+  {
+    "symbol": [4, 7, 9],
+    "meanings": [ "new" ]
+  },
+  {
+    "symbol": [3, 4, 7],
+    "meanings": [ "no", "not", "absent", "inside" ]
+  },
+  {
+    "symbol": [5, 10, 8, 5],
+    "meanings": [ "nourish" ]
+  },
+  {
+    "symbol": [0, 1, 6],
+    "meanings": [ "old" ]
+  },
+  {
+    "symbol": [6, 7, 10, 6],
+    "meanings": [ "open", "accept" ]
+  },
+  {
+    "symbol": [1, 3, 4, 2, 9, 7, 6, 8, 1],
+    "meanings": [ "opening", "doorway", "door", "portal", "gate" ]
+  },
+  {
+    "symbol": [1, 3, 6, 8],
+    "meanings": [ "past" ]
+  },
+  {
+    "symbol": [0, 5, 8],
+    "meanings": [ "path" ]
+  },
+  {
+    "symbol": [0, 5, 9, 10, 8, 5],
+    "meanings": [ "perfection", "balance" ]
+  },
+  {
+    "symbol": [8, 4, 0, 3, 9],
+    "meanings": [ "perspective" ]
+  },
+  {
+    "symbol": [0, 5, 9, 2],
+    "meanings": [ "potential" ]
+  },
+  {
+    "symbol": [6, 7, 4, 5, 3, 6, 10, 7],
+    "meanings": [ "presence" ]
+  },
+  {
+    "symbol": [3, 6, 7, 4],
+    "meanings": [ "present", "now" ]
+  },
+  {
+    "symbol": [0, 5, 7, 4, 5],
+    "meanings": [ "pure", "purity" ]
+  },
+  {
+    "symbol": [1, 3, 0, 4],
+    "meanings": [ "pursue", "aspiration" ]
+  },
+  {
+    "symbol": [0, 5, 3, 6, 8],
+    "meanings": [ "pursue", "chase" ]
+  },
+  {
+    "symbol": [0, 4, 3, 6],
+    "meanings": [ "question" ]
+  },
+  {
+    "symbol": [4, 3, 9],
+    "meanings": [ "react" ]
+  },
+  {
+    "symbol": [1, 6, 2, 9],
+    "meanings": [ "rebel" ]
+  },
+  {
+    "symbol": [0, 5, 1, 0],
+    "meanings": [ "recharge", "repair" ]
+  },
+  {
+    "symbol": [4, 3, 0, 10, 7],
+    "meanings": [ "resist", "resistance", "struggle" ]
+  },
+  {
+    "symbol": [5, 7, 10],
+    "meanings": [ "response" ]
+  },
+  {
+    "symbol": [1, 9, 10],
+    "meanings": [ "restraint" ]
+  },
+  {
+    "symbol": [0, 9],
+    "meanings": [ "retreat" ]
+  },
+  {
+    "symbol": [8, 3, 4, 9],
+    "meanings": [ "safety" ]
+  },
+  {
+    "symbol": [2, 7, 5, 6],
+    "meanings": [ "save", "rescue" ]
+  },
+  {
+    "symbol": [0, 3],
+    "meanings": [ "see" ]
+  },
+  {
+    "symbol": [5, 4, 3, 6, 7],
+    "meanings": [ "seek", "search", "find" ]
+  },
+  {
+    "symbol": [8, 10, 9],
+    "meanings": [ "self", "individual" ]
+  },
+  {
+    "symbol": [1, 3, 6, 4, 7, 9],
+    "meanings": [ "separate" ]
+  },
+  {
+    "symbol": [9, 7, 6, 8, 10],
+    "meanings": [ "share" ]
+  },
+  {
+    "symbol": [6, 7],
+    "meanings": [ "simple" ]
+  },
+  {
+    "symbol": [4, 7, 10, 5, 4],
+    "meanings": [ "soul", "spirit", "life", "life force" ]
+  },
+  {
+    "symbol": [8, 6, 7, 9],
+    "meanings": [ "stability", "stay" ]
+  },
+  {
+    "symbol": [3, 4, 7, 6, 3],
+    "meanings": [ "strong" ]
+  },
+  {
+    "symbol": [0, 5, 2, 9, 5, 10],
+    "meanings": [ "sustain" ]
+  },
+  {
+    "symbol": [2, 6, 3, 9],
+    "meanings": [ "technology" ]
+  },
+  {
+    "symbol": [0, 6, 7],
+    "meanings": [ "them" ]
+  },
+  {
+    "symbol": [5, 3, 4, 8],
+    "meanings": [ "together" ]
+  },
+  {
+    "symbol": [3, 7, 4, 6, 3],
+    "meanings": [ "truth" ]
+  },
+  {
+    "symbol": [5, 4, 3, 6, 7, 2, 0, 1, 8, 10, 9],
+    "meanings": [ "unbounded" ]
+  },
+  {
+    "symbol": [5, 7, 2],
+    "meanings": [ "use" ]
+  },
+  {
+    "symbol": [0, 3, 10, 4, 0],
+    "meanings": [ "victory" ]
+  },
+  {
+    "symbol": [8, 6, 10, 7],
+    "meanings": [ "want", "desire" ]
+  },
+  {
+    "symbol": [3, 4, 10],
+    "meanings": [ "we", "us" ]
+  },
+  {
+    "symbol": [1, 3, 4, 7],
+    "meanings": [ "weak" ]
+  },
+  {
+    "symbol": [1, 6, 5, 7, 2],
+    "meanings": [ "worth" ]
+  },
+  {
+    "symbol": [3, 4, 7, 5, 6, 3],
+    "meanings": [ "matter" ]
+  },
+  {
+    "symbol": [3, 4, 7, 5, 6, 3],
+    "meanings": [ "matter" ]
+  },
+  {
+    "symbol": [0, 7, 6, 0],
+    "meanings": [ "you", "other" ]
+  },
+  {
+    "symbol": [0, 4, 7, 9, 10, 8, 6, 3, 0],
+    "meanings": [ "[unknown]" ]
+  },
+  {
+    "symbol": [1, 0, 5, 8, 10, 9, 2],
+    "meanings": [ "[unknown]" ]
+  },
+  {
+    "symbol": [0, 5, 1, 5, 8, 5, 10, 5, 9, 5, 2],
+    "meanings": [ "[unknown]" ]
+  },
+  {
+    "symbol": [3, 5, 4, 7, 10, 6, 3],
+    "meanings": [ "[unknown]" ]
   }
 ]

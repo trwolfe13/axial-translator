@@ -1,26 +1,106 @@
 [
   {
-    "symbol": [5, 13, 18],
-    "keywords": [ "abandon", "leave" ]
+    "symbol": [2, 8, 10],
+    "meanings": [ "abandon", "leave" ]
   },
   {
-    "symbol": [3, 11, 9, 12],
-    "keywords": [ "adapt" ]
+    "symbol": [1, 6, 5, 7],
+    "meanings": [ "adapt" ]
   },
   {
-    "symbol": [0, 13],
-    "keywords": [ "advance" ]
+    "symbol": [0, 8],
+    "meanings": [ "advance" ]
   },
   {
-    "symbol": [9, 5, 15, 9],
-    "keywords": [ "after" ]
+    "symbol": [2, 9, 5, 2],
+    "meanings": [ "after" ]
   },
   {
-    "symbol": [13, 6, 11, 7, 12],
-    "keywords": [ "again", "repeat" ]
+    "symbol": [7, 4, 6, 3, 8],
+    "meanings": [ "again", "repeat" ]
   },
   {
-    "symbol": [0, 5, 15, 18, 13, 3, 0],
-    "keywords": [ "all", "every", "everything" ]
+    "symbol": [0, 2, 9, 10, 8, 1, 0],
+    "meanings": [ "all", "every", "everything" ]
+  },
+  {
+    "symbol": [3, 4, 7, 5],
+    "meanings": [ "answer" ]
+  },
+  {
+    "symbol": [8, 0, 9],
+    "meanings": [ "attack", "war", "battle", "fight" ]
+  },
+  {
+    "symbol": [1, 0, 4, 2, 7],
+    "meanings": [ "avoid", "struggle" ]
+  },
+  {
+    "symbol": [0, 5, 9],
+    "meanings": [ "barrier", "obstacle" ]
+  },
+  {
+    "symbol": [1, 5, 8, 1],
+    "meanings": [ "before" ]
+  },
+  {
+    "symbol": [0, 6, 10, 7],
+    "meanings": [ "begin" ]
+  },
+  {
+    "symbol": [3, 4, 7, 10, 6, 3],
+    "meanings": [ "being", "human" ]
+  },
+  {
+    "symbol": [3, 4, 5, 3],
+    "meanings": [ "body", "shell" ]
+  },
+  {
+    "symbol": [1, 5, 2],
+    "meanings": [ "breathe" ]
+  },
+  {
+    "symbol": [0, 3, 5],
+    "meanings": [ "call" ]
+  },
+  {
+    "symbol": [2, 7, 5, 6, 8, 10],
+    "meanings": [ "capture" ]
+  },
+  {
+    "symbol": [6, 5, 10, 7],
+    "meanings": [ "change", "modify" ]
+  },
+  {
+    "symbol": [8, 1, 0, 2, 6, 10],
+    "meanings": [ "chaos", "disorder" ]
+  },
+  {
+    "symbol": [0, 10],
+    "meanings": [ "clear" ]
+  },
+  {
+    "symbol": [4, 3, 5, 6],
+    "meanings": [ "complex" ]
+  },
+  {
+    "symbol": [8, 3, 6, 7, 4, 9],
+    "meanings": [ "conflict" ]
+  },
+  {
+    "symbol": [1, 3, 6, 7, 9],
+    "meanings": [ "consequence" ]
+  },
+  {
+    "symbol": [0, 2, 9, 10, 6, 3, 5, 4],
+    "meanings": [ "consequence" ]
+  },
+  {
+    "symbol": [7, 4, 9],
+    "meanings": [ "contract", "reduce" ]
+  },
+  {
+    "symbol": [8, 3, 6, 7],
+    "meanings": [ "courage" ]
   }
 ]

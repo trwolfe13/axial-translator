@@ -1,6 +1,16 @@
 <div class="container">
   <h1>Glyphs</h1>
-  <div class="glyph" *ngFor="let glyph of glyphs">
-    <ax-glyph [glyph]="glyph"></ax-glyph>
+
+  <div class="search form-group">
+    <input type="text" class="form-control" placeholder="Filter...">
+  </div>
+  <div class="search-results">
+    <div class="result form-group" *ngFor="let glyph of glyphs">
+      <ax-glyph class="result-image" [glyph]="glyph"></ax-glyph>
+      <div class="result-body">
+        <h5 class="result-title">{{ glyph.meanings[0] | titlecase }}</h5>
+        <div class="result-synonyms">{{ synonyms(glyph) }}</div>
+      </div>
+    </div>
   </div>
 </div>

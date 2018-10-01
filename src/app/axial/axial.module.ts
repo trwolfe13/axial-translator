@@ -7,6 +7,7 @@ import * as Components from './components';
 import { effects, axialFeature, axialReducer } from './store';
 import { AxialComponent } from './axial.component';
 import { AxialRoutingModule } from './axial.routing';
+import { TitleCasePipe } from '@angular/common';
 
 const COMPONENTS = [
   AxialComponent,
@@ -24,6 +25,7 @@ const COMPONENTS = [
     EffectsModule.forFeature(effects),
   ],
   providers: [
+    TitleCasePipe
   ],
   exports: [
     AxialComponent

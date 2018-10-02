@@ -1,0 +1,13 @@
+@media print {
+  ax-header, ax-footer, ax-filter {
+    display: none !important;
+  }
+
+  a {
+    text-decoration: none !important;
+  }
+
+  .container {
+    width: 100% !important;
+  }
+}

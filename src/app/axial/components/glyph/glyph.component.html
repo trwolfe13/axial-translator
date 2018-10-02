@@ -1,18 +1,21 @@
-<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-  <ng-container *ngIf="showGrid">
-    <circle *ngFor="let node of nodes"
-      [attr.cx]="node[0]"
-      [attr.cy]="node[1]"
-      r="2"
+<div style="display: none" #svg>
+  <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+    <ng-container *ngIf="showGrid">
+      <circle *ngFor="let node of nodes"
+        [attr.cx]="node[0]"
+        [attr.cy]="node[1]"
+        r="2"
+      />
+    </ng-container>
+    <line *ngFor="let line of lines"
+      [attr.x1]="line[0]"
+      [attr.y1]="line[1]"
+      [attr.x2]="line[2]"
+      [attr.y2]="line[3]"
+      stroke="black"
+      stroke-width="4"
+      stroke-linecap="round"
     />
-  </ng-container>
-  <line *ngFor="let line of lines"
-    [attr.x1]="line[0]"
-    [attr.y1]="line[1]"
-    [attr.x2]="line[2]"
-    [attr.y2]="line[3]"
-    stroke="black"
-    stroke-width="4"
-    stroke-linecap="round"
-  />
-</svg>
+  </svg>
+</div>
+<img [alt]="title" [title]="title" [src]="svgData" />

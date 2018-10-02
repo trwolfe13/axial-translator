@@ -1,5 +1,6 @@
-import { Component, Input } from '@angular/core';
+import { Component, ElementRef, Input, ViewChild } from '@angular/core';
 import { Glyph } from '@ax/axial/models';
+import { DomSanitizer, SafeResourceUrl } from '@angular/platform-browser';
 
 @Component({
   selector: 'ax-glyph',
@@ -7,8 +8,15 @@ import { Glyph } from '@ax/axial/models';
   styleUrls: ['./glyph.component.scss']
 })
 export class GlyphComponent {
+  @ViewChild('svg') svg: ElementRef<SVGElement>;
   @Input() glyph: Glyph | Glyph[];
   @Input() showGrid = false;
+
+  constructor(private sanitizer: DomSanitizer) { }
+
+  get title(): string {
+    return this.glyphs.map(g => g.meanings[0]).join(' ');
+  }
 
   get glyphs(): Glyph[] {
     if (!this.glyph) { return []; }
@@ -55,6 +63,11 @@ export class GlyphComponent {
     [50, 95],
   ];
 
+  get svgData(): SafeResourceUrl {
+    const svg = this.svg.nativeElement.innerHTML;
+    return this.sanitizer.bypassSecurityTrustResourceUrl('data:image/svg+xml;base64,' + btoa(svg));
+  }
+
   get lines(): [number, number, number, number][] {
     const result: [number, number, number, number][] = [];
     this.glyphs.forEach(glyph => {
@@ -69,6 +82,4 @@ export class GlyphComponent {
     });
     return result;
   }
-
-  constructor() { }
 }

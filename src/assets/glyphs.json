@@ -21,7 +21,7 @@
   },
   {
     "symbol": [0, 2, 9, 10, 8, 1, 0],
-    "meanings": [ "all", "every", "everything" ]
+    "meanings": [ "all", "every", "everything", "mass" ]
   },
   {
     "symbol": [3, 4, 7, 5],
@@ -77,7 +77,7 @@
   },
   {
     "symbol": [0, 10],
-    "meanings": [ "clear" ]
+    "meanings": [ "clear", "clearly" ]
   },
   {
     "symbol": [4, 3, 5, 6],
@@ -89,7 +89,7 @@
   },
   {
     "symbol": [1, 3, 6, 7, 9],
-    "meanings": [ "consequence" ]
+    "meanings": [ "consequence", "outcome" ]
   },
   {
     "symbol": [0, 2, 9, 10, 6, 3, 5, 4],
@@ -97,11 +97,11 @@
   },
   {
     "symbol": [7, 4, 9],
-    "meanings": [ "contract", "reduce" ]
+    "meanings": [ "reduce", "contract" ]
   },
   {
     "symbol": [8, 3, 6, 7],
-    "meanings": [ "courage", "bravery" ]
+    "meanings": [ "courage", "brave", "bravery" ]
   },
   {
     "symbol": [2, 8],
@@ -125,7 +125,7 @@
   },
   {
     "symbol": [1, 10, 2],
-    "meanings": [ "defend" ]
+    "meanings": [ "defend", "defense" ]
   },
   {
     "symbol": [2, 9, 10],
@@ -145,7 +145,7 @@
   },
   {
     "symbol": [8, 5, 9],
-    "meanings": [ "die" ]
+    "meanings": [ "die", "death" ]
   },
   {
     "symbol": [6, 5, 7, 4, 2],
@@ -165,11 +165,11 @@
   },
   {
     "symbol": [0, 2, 10, 0],
-    "meanings": [ "end", "close", "finally" ]
+    "meanings": [ "end", "close", "finally", "final", "stop" ]
   },
   {
     "symbol": [3, 4, 5, 3, 0, 2, 9, 10, 8],
-    "meanings": [ "enlightened", "enlightenment" ]
+    "meanings": [ "enlighten", "enlightened", "enlightenment" ]
   },
   {
     "symbol": [6, 3, 4, 7],
@@ -181,15 +181,15 @@
   },
   {
     "symbol": [0, 5, 3, 6],
-    "meanings": [ "evolution", "success", "progress" ]
+    "meanings": [ "evolution", "success", "successful", "progress" ]
   },
   {
     "symbol": [0, 5, 4, 7],
-    "meanings": [ "failure" ]
+    "meanings": [ "failure", "fail", "failed" ]
   },
   {
     "symbol": [3, 4, 7, 2],
-    "meanings": [ "fear" ]
+    "meanings": [ "fear", "scared", "afraid" ]
   },
   {
     "symbol": [0, 4, 2, 9],
@@ -204,16 +204,24 @@
     "meanings": [ "future", "forward" ]
   },
   {
+    "symbol": [1, 3, 4, 2],
+    "meanings": [ "above", "overhead" ]
+  },
+  {
+    "symbol": [8, 6, 7, 9],
+    "meanings": [ "below", "beneath", "under", "underneath" ]
+  },
+  {
     "symbol": [1, 6],
-    "meanings": [ "gain" ]
+    "meanings": [ "gain", "achieve" ]
   },
   {
     "symbol": [1, 3, 6, 7, 4, 2],
-    "meanings": [ "government", "city", "civilization", "structure" ]
+    "meanings": [ "government", "city", "civilization", "structure", "organization" ]
   },
   {
     "symbol": [6, 3, 8],
-    "meanings": [ "grow" ]
+    "meanings": [ "grow", "growth" ]
   },
   {
     "symbol": [5, 4, 0, 3, 9],
@@ -225,7 +233,7 @@
   },
   {
     "symbol": [7, 5, 6, 10],
-    "meanings": [ "have" ]
+    "meanings": [ "have", "own" ]
   },
   {
     "symbol": [1, 5, 6, 7],
@@ -257,7 +265,7 @@
   },
   {
     "symbol": [2, 5, 3, 6, 8],
-    "meanings": [ "intelligence" ]
+    "meanings": [ "intelligence", "clever", "smart", "brain" ]
   },
   {
     "symbol": [0, 5, 1, 8, 5, 10],
@@ -269,11 +277,11 @@
   },
   {
     "symbol": [3, 5, 4, 10, 3],
-    "meanings": [ "knowledge" ]
+    "meanings": [ "knowledge", "information", "data" ]
   },
   {
     "symbol": [0, 1, 8, 6, 10],
-    "meanings": [ "lead" ]
+    "meanings": [ "lead", "leader" ]
   },
   {
     "symbol": [8, 6, 3, 1, 0, 2, 4, 7, 9],
@@ -285,7 +293,7 @@
   },
   {
     "symbol": [0, 2, 5, 3, 8],
-    "meanings": [ "liberate" ]
+    "meanings": [ "liberate", "free" ]
   },
   {
     "symbol": [5, 4, 7, 3, 6],
@@ -321,7 +329,7 @@
   },
   {
     "symbol": [8, 6, 3, 4, 7, 9],
-    "meanings": [ "nature" ]
+    "meanings": [ "nature", "natural" ]
   },
   {
     "symbol": [4, 7, 9],
@@ -329,7 +337,7 @@
   },
   {
     "symbol": [3, 4, 7],
-    "meanings": [ "no", "not", "absent", "inside" ]
+    "meanings": [ "no", "not", "absent", "inside", "into", "in" ]
   },
   {
     "symbol": [5, 10, 8, 5],
@@ -349,7 +357,7 @@
   },
   {
     "symbol": [1, 3, 6, 8],
-    "meanings": [ "past" ]
+    "meanings": [ "past", "back" ]
   },
   {
     "symbol": [0, 5, 8],
@@ -365,7 +373,7 @@
   },
   {
     "symbol": [0, 5, 9, 2],
-    "meanings": [ "potential" ]
+    "meanings": [ "potential", "ability" ]
   },
   {
     "symbol": [6, 7, 4, 5, 3, 6, 10, 7],
@@ -425,7 +433,7 @@
   },
   {
     "symbol": [2, 7, 5, 6],
-    "meanings": [ "save", "rescue" ]
+    "meanings": [ "save", "rescue", "free" ]
   },
   {
     "symbol": [0, 3],
@@ -445,7 +453,7 @@
   },
   {
     "symbol": [8, 6, 3, 0, 4, 7, 9],
-    "meanings": [ "collective" ]
+    "meanings": [ "collective", "group" ]
   },
   {
     "symbol": [9, 7, 6, 8, 10],
@@ -461,7 +469,7 @@
   },
   {
     "symbol": [8, 6, 7, 9],
-    "meanings": [ "stability", "stay" ]
+    "meanings": [ "stability", "stay", "stable" ]
   },
   {
     "symbol": [3, 4, 7, 6, 3],
@@ -477,7 +485,7 @@
   },
   {
     "symbol": [0, 6, 7],
-    "meanings": [ "them" ]
+    "meanings": [ "them", "themselves" ]
   },
   {
     "symbol": [5, 3, 4, 8],
@@ -489,7 +497,7 @@
   },
   {
     "symbol": [5, 4, 3, 6, 7, 2, 0, 1, 8, 10, 9],
-    "meanings": [ "unbounded" ]
+    "meanings": [ "unbounded", "unlimited" ]
   },
   {
     "symbol": [5, 7, 2],
@@ -505,7 +513,7 @@
   },
   {
     "symbol": [3, 4, 10],
-    "meanings": [ "we", "us" ]
+    "meanings": [ "we", "us", "our", "ourselves" ]
   },
   {
     "symbol": [1, 3, 4, 7],
@@ -513,7 +521,7 @@
   },
   {
     "symbol": [1, 6, 5, 7, 2],
-    "meanings": [ "worth" ]
+    "meanings": [ "worth", "value" ]
   },
   {
     "symbol": [3, 4, 7, 5, 6, 3],
@@ -521,7 +529,7 @@
   },
   {
     "symbol": [0, 7, 6, 0],
-    "meanings": [ "you", "other" ]
+    "meanings": [ "you", "other", "your", "yourself", "others" ]
   },
   {
     "symbol": [0, 4, 7, 9, 10, 8, 6, 3, 0],

@@ -14,6 +14,7 @@ const COMPONENTS = [
   Components.FilterComponent,
   Components.SearchResultsComponent,
   Components.SearchResultComponent,
+  Components.TranslatorComponent,
   Components.RelatedComponent
 ];
 

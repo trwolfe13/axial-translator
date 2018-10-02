@@ -1,0 +1,1073 @@
+# Glyphs
+
+## 1,000 Most-Used Words
+
+- [ ] a
+- [X] ability
+- [ ] able
+- [ ] about
+- [ ] above
+- [X] accept
+- [ ] according
+- [ ] account
+- [ ] across
+- [ ] act
+- [ ] action
+- [ ] activity
+- [ ] actually
+- [ ] add
+- [ ] address
+- [ ] administration
+- [ ] admit
+- [ ] adult
+- [ ] affect
+- [X] after
+- [X] again
+- [ ] against
+- [ ] age
+- [ ] agency
+- [ ] agent
+- [ ] ago
+- [ ] agree
+- [ ] agreement
+- [ ] ahead
+- [ ] air
+- [X] all
+- [ ] allow
+- [ ] almost
+- [ ] alone
+- [ ] along
+- [ ] already
+- [ ] also
+- [ ] although
+- [ ] always
+- [ ] American
+- [ ] among
+- [ ] amount
+- [ ] analysis
+- [ ] and
+- [ ] animal
+- [ ] another
+- [X] answer
+- [ ] any
+- [ ] anyone
+- [ ] anything
+- [ ] appear
+- [ ] apply
+- [ ] approach
+- [ ] area
+- [ ] argue
+- [ ] arm
+- [ ] around
+- [ ] arrive
+- [ ] art
+- [ ] article
+- [ ] artist
+- [ ] as
+- [ ] ask
+- [ ] assume
+- [ ] at
+- [X] attack
+- [ ] attention
+- [ ] attorney
+- [ ] audience
+- [ ] author
+- [ ] authority
+- [ ] available
+- [X] avoid
+- [ ] away
+- [ ] baby
+- [ ] back
+- [ ] bad
+- [ ] bag
+- [ ] ball
+- [ ] bank
+- [ ] bar
+- [ ] base
+- [ ] be
+- [ ] beat
+- [ ] beautiful
+- [ ] because
+- [ ] become
+- [ ] bed
+- [X] before
+- [ ] begin
+- [ ] behavior
+- [ ] behind
+- [ ] believe
+- [ ] benefit
+- [ ] best
+- [ ] better
+- [ ] between
+- [ ] beyond
+- [ ] big
+- [ ] bill
+- [ ] billion
+- [ ] bit
+- [ ] black
+- [ ] blood
+- [ ] blue
+- [ ] board
+- [X] body
+- [ ] book
+- [ ] born
+- [ ] both
+- [ ] box
+- [ ] boy
+- [ ] break
+- [ ] bring
+- [ ] brother
+- [ ] budget
+- [ ] build
+- [ ] building
+- [ ] business
+- [ ] but
+- [ ] buy
+- [ ] by
+- [X] call
+- [ ] camera
+- [ ] campaign
+- [ ] can
+- [ ] cancer
+- [ ] candidate
+- [ ] capital
+- [ ] car
+- [ ] card
+- [ ] care
+- [ ] career
+- [ ] carry
+- [ ] case
+- [ ] catch
+- [ ] cause
+- [ ] cell
+- [ ] center
+- [ ] central
+- [ ] century
+- [ ] certain
+- [ ] certainly
+- [ ] chair
+- [ ] challenge
+- [ ] chance
+- [X] change
+- [ ] character
+- [ ] charge
+- [ ] check
+- [ ] child
+- [ ] choice
+- [ ] choose
+- [ ] church
+- [ ] citizen
+- [X] city
+- [ ] civil
+- [ ] claim
+- [ ] class
+- [X] clear
+- [ ] clearly
+- [X] close
+- [ ] coach
+- [ ] cold
+- [ ] collection
+- [ ] college
+- [ ] color
+- [ ] come
+- [ ] commercial
+- [ ] common
+- [ ] community
+- [ ] company
+- [ ] compare
+- [ ] computer
+- [ ] concern
+- [ ] condition
+- [ ] conference
+- [ ] Congress
+- [ ] consider
+- [ ] consumer
+- [ ] contain
+- [ ] continue
+- [ ] control
+- [ ] cost
+- [ ] could
+- [ ] country
+- [ ] couple
+- [ ] course
+- [ ] court
+- [ ] cover
+- [X] create, creation, creativity
+- [ ] crime
+- [ ] cultural
+- [ ] culture
+- [ ] cup
+- [ ] current
+- [ ] customer
+- [ ] cut
+- [ ] dark
+- [X] data
+- [ ] daughter
+- [ ] day
+- [ ] dead
+- [ ] deal
+- [X] death
+- [ ] debate
+- [ ] decade
+- [ ] decide
+- [ ] decision
+- [ ] deep
+- [X] defense, defend
+- [ ] degree
+- [ ] Democrat
+- [ ] democratic
+- [ ] describe
+- [ ] design
+- [ ] despite
+- [ ] detail
+- [ ] determine
+- [ ] develop
+- [ ] development
+- [X] die
+- [ ] difference
+- [ ] different
+- [X] difficult
+- [ ] dinner
+- [ ] direction
+- [ ] director
+- [X] discover
+- [ ] discuss
+- [ ] discussion
+- [ ] disease
+- [ ] do
+- [ ] doctor
+- [ ] dog
+- [ ] door
+- [ ] down
+- [ ] draw
+- [ ] dream
+- [ ] drive
+- [ ] drop
+- [ ] drug
+- [ ] during
+- [ ] each
+- [ ] early
+- [ ] east
+- [X] easy
+- [ ] eat
+- [ ] economic
+- [ ] economy
+- [ ] edge
+- [ ] education
+- [ ] effect
+- [ ] effort
+- [ ] eight
+- [ ] either
+- [ ] election
+- [ ] else
+- [ ] employee
+- [X] end
+- [ ] energy
+- [ ] enjoy
+- [ ] enough
+- [ ] enter
+- [ ] entire
+- [ ] environment
+- [ ] environmental
+- [ ] especially
+- [ ] establish
+- [ ] even
+- [ ] evening
+- [ ] event
+- [ ] ever
+- [X] every
+- [ ] everybody
+- [ ] everyone
+- [X] everything
+- [ ] evidence
+- [ ] exactly
+- [ ] example
+- [ ] executive
+- [ ] exist
+- [ ] expect
+- [ ] experience
+- [ ] expert
+- [ ] explain
+- [ ] eye
+- [ ] face
+- [ ] fact
+- [ ] factor
+- [X] fail, failure, failed
+- [ ] fall
+- [ ] family
+- [ ] far
+- [ ] fast
+- [ ] father
+- [X] fear
+- [ ] federal
+- [ ] feel
+- [ ] feeling
+- [ ] few
+- [ ] field
+- [X] fight
+- [ ] figure
+- [ ] fill
+- [ ] film
+- [X] final
+- [X] finally
+- [ ] financial
+- [X] find
+- [ ] fine
+- [ ] finger
+- [ ] finish
+- [ ] fire
+- [ ] firm
+- [ ] first
+- [ ] fish
+- [ ] five
+- [ ] floor
+- [ ] fly
+- [ ] focus
+- [X] follow
+- [ ] food
+- [ ] foot
+- [ ] for
+- [ ] force
+- [ ] foreign
+- [X] forget
+- [ ] form
+- [ ] former
+- [X] forward
+- [ ] four
+- [X] free
+- [ ] friend
+- [ ] from
+- [ ] front
+- [ ] full
+- [ ] fund
+- [X] future
+- [ ] game
+- [ ] garden
+- [ ] gas
+- [ ] general
+- [ ] generation
+- [ ] get
+- [ ] girl
+- [ ] give
+- [ ] glass
+- [ ] go
+- [ ] goal
+- [ ] good
+- [X] government
+- [ ] great
+- [ ] green
+- [ ] ground
+- [X] group
+- [X] grow
+- [X] growth
+- [ ] guess
+- [ ] gun
+- [ ] guy
+- [ ] hair
+- [ ] half
+- [ ] hand
+- [ ] hang
+- [ ] happen
+- [ ] happy
+- [ ] hard
+- [X] have
+- [ ] he
+- [ ] head
+- [ ] health
+- [ ] hear
+- [ ] heart
+- [ ] heat
+- [ ] heavy
+- [X] help
+- [ ] her
+- [ ] here
+- [ ] herself
+- [ ] high
+- [ ] him
+- [ ] himself
+- [ ] his
+- [ ] history
+- [ ] hit
+- [ ] hold
+- [ ] home
+- [ ] hope
+- [ ] hospital
+- [ ] hot
+- [ ] hotel
+- [ ] hour
+- [ ] house
+- [ ] how
+- [ ] however
+- [ ] huge
+- [X] human
+- [ ] hundred
+- [ ] husband
+- [X] I
+- [X] idea
+- [ ] identify
+- [ ] if
+- [ ] image
+- [ ] imagine
+- [ ] impact
+- [ ] important
+- [ ] improve
+- [X] in
+- [ ] include
+- [ ] including
+- [ ] increase
+- [ ] indeed
+- [ ] indicate
+- [X] individual
+- [ ] industry
+- [X] information
+- [X] inside
+- [ ] instead
+- [ ] institution
+- [ ] interest
+- [ ] interesting
+- [ ] international
+- [ ] interview
+- [X] into
+- [ ] investment
+- [ ] involve
+- [ ] issue
+- [ ] it
+- [ ] item
+- [ ] its
+- [ ] itself
+- [ ] job
+- [ ] join
+- [ ] just
+- [ ] keep
+- [ ] key
+- [ ] kid
+- [ ] kill
+- [ ] kind
+- [ ] kitchen
+- [ ] know
+- [X] knowledge
+- [ ] land
+- [ ] language
+- [ ] large
+- [ ] last
+- [ ] late
+- [ ] later
+- [ ] laugh
+- [ ] law
+- [ ] lawyer
+- [ ] lay
+- [X] lead
+- [X] leader
+- [ ] learn
+- [ ] least
+- [X] leave
+- [ ] left
+- [ ] leg
+- [ ] legal
+- [X] less
+- [ ] let
+- [ ] letter
+- [ ] level
+- [ ] lie
+- [X] life
+- [ ] light
+- [ ] like
+- [ ] likely
+- [ ] line
+- [ ] list
+- [ ] listen
+- [ ] little
+- [ ] live
+- [ ] local
+- [ ] long
+- [ ] look
+- [ ] lose
+- [ ] loss
+- [ ] lot
+- [ ] love
+- [ ] low
+- [ ] machine
+- [ ] magazine
+- [ ] main
+- [ ] maintain
+- [ ] major
+- [ ] majority
+- [ ] make
+- [ ] man
+- [ ] manage
+- [ ] management
+- [ ] manager
+- [ ] many
+- [ ] market
+- [ ] marriage
+- [ ] material
+- [X] matter
+- [ ] may
+- [ ] maybe
+- [X] me
+- [ ] mean
+- [ ] measure
+- [ ] media
+- [ ] medical
+- [ ] meet
+- [ ] meeting
+- [ ] member
+- [ ] memory
+- [ ] mention
+- [X] message
+- [ ] method
+- [ ] middle
+- [ ] might
+- [ ] military
+- [ ] million
+- [X] mind
+- [ ] minute
+- [ ] miss
+- [ ] mission
+- [ ] model
+- [ ] modern
+- [ ] moment
+- [ ] money
+- [ ] month
+- [ ] more
+- [ ] morning
+- [ ] most
+- [ ] mother
+- [ ] mouth
+- [ ] move
+- [ ] movement
+- [ ] movie
+- [ ] Mr
+- [ ] Mrs
+- [ ] much
+- [ ] music
+- [ ] must
+- [ ] my
+- [ ] myself
+- [ ] name
+- [ ] nation
+- [ ] national
+- [X] natural
+- [X] nature
+- [ ] near
+- [ ] nearly
+- [ ] necessary
+- [ ] need
+- [ ] network
+- [ ] never
+- [X] new
+- [ ] news
+- [ ] newspaper
+- [ ] next
+- [ ] nice
+- [ ] night
+- [X] no
+- [ ] none
+- [ ] nor
+- [ ] north
+- [X] not
+- [ ] note
+- [ ] nothing
+- [ ] notice
+- [ ] now
+- [ ] n't
+- [ ] number
+- [ ] occur
+- [ ] of
+- [ ] off
+- [ ] offer
+- [ ] office
+- [ ] officer
+- [ ] official
+- [ ] often
+- [ ] oh
+- [ ] oil
+- [ ] ok
+- [ ] old
+- [ ] on
+- [ ] once
+- [ ] one
+- [ ] only
+- [ ] onto
+- [X] open
+- [ ] operation
+- [ ] opportunity
+- [ ] option
+- [ ] or
+- [ ] order
+- [X] organization
+- [X] other
+- [X] others
+- [ ] our
+- [ ] out
+- [X] outside
+- [ ] over
+- [X] own
+- [ ] owner
+- [ ] page
+- [ ] pain
+- [ ] painting
+- [ ] paper
+- [ ] parent
+- [ ] part
+- [ ] participant
+- [ ] particular
+- [ ] particularly
+- [ ] partner
+- [ ] party
+- [ ] pass
+- [X] past
+- [ ] patient
+- [ ] pattern
+- [ ] pay
+- [X] peace
+- [ ] people
+- [ ] per
+- [ ] perform
+- [ ] performance
+- [ ] perhaps
+- [ ] period
+- [ ] person
+- [ ] personal
+- [ ] phone
+- [ ] physical
+- [ ] pick
+- [ ] picture
+- [ ] piece
+- [ ] place
+- [ ] plan
+- [ ] plant
+- [ ] play
+- [ ] player
+- [ ] PM
+- [ ] point
+- [ ] police
+- [ ] policy
+- [ ] political
+- [ ] politics
+- [ ] poor
+- [ ] popular
+- [ ] population
+- [ ] position
+- [ ] positive
+- [ ] possible
+- [ ] power
+- [ ] practice
+- [ ] prepare
+- [ ] present
+- [ ] president
+- [ ] pressure
+- [ ] pretty
+- [ ] prevent
+- [ ] price
+- [ ] private
+- [ ] probably
+- [ ] problem
+- [ ] process
+- [ ] produce
+- [ ] product
+- [ ] production
+- [ ] professional
+- [ ] professor
+- [ ] program
+- [ ] project
+- [ ] property
+- [ ] protect
+- [ ] prove
+- [ ] provide
+- [ ] public
+- [ ] pull
+- [ ] purpose
+- [ ] push
+- [ ] put
+- [ ] quality
+- [ ] question
+- [ ] quickly
+- [ ] quite
+- [ ] race
+- [ ] radio
+- [ ] raise
+- [ ] range
+- [ ] rate
+- [ ] rather
+- [ ] reach
+- [ ] read
+- [ ] ready
+- [ ] real
+- [ ] reality
+- [ ] realize
+- [ ] really
+- [ ] reason
+- [ ] receive
+- [ ] recent
+- [ ] recently
+- [ ] recognize
+- [ ] record
+- [ ] red
+- [X] reduce
+- [ ] reflect
+- [ ] region
+- [ ] relate
+- [ ] relationship
+- [ ] religious
+- [ ] remain
+- [ ] remember
+- [ ] remove
+- [ ] report
+- [ ] represent
+- [ ] Republican
+- [ ] require
+- [ ] research
+- [ ] resource
+- [ ] respond
+- [ ] response
+- [ ] responsibility
+- [ ] rest
+- [ ] result
+- [ ] return
+- [ ] reveal
+- [ ] rich
+- [ ] right
+- [ ] rise
+- [ ] risk
+- [ ] road
+- [ ] rock
+- [ ] role
+- [ ] room
+- [ ] rule
+- [ ] run
+- [ ] safe
+- [ ] same
+- [ ] save
+- [ ] say
+- [ ] scene
+- [ ] school
+- [ ] science
+- [ ] scientist
+- [ ] score
+- [ ] sea
+- [ ] season
+- [ ] seat
+- [ ] second
+- [ ] section
+- [ ] security
+- [X] see
+- [X] seek
+- [ ] seem
+- [ ] sell
+- [ ] send
+- [ ] senior
+- [ ] sense
+- [ ] series
+- [ ] serious
+- [ ] serve
+- [ ] service
+- [ ] set
+- [ ] seven
+- [ ] several
+- [ ] sex
+- [ ] sexual
+- [ ] shake
+- [X] share
+- [ ] she
+- [ ] shoot
+- [ ] short
+- [ ] shot
+- [ ] should
+- [ ] shoulder
+- [ ] show
+- [ ] side
+- [ ] sign
+- [ ] significant
+- [ ] similar
+- [X] simple
+- [ ] simply
+- [ ] since
+- [ ] sing
+- [ ] single
+- [ ] sister
+- [ ] sit
+- [ ] site
+- [ ] situation
+- [ ] six
+- [ ] size
+- [ ] skill
+- [ ] skin
+- [ ] small
+- [ ] smile
+- [ ] so
+- [ ] social
+- [ ] society
+- [ ] soldier
+- [ ] some
+- [ ] somebody
+- [ ] someone
+- [ ] something
+- [ ] sometimes
+- [ ] son
+- [ ] song
+- [ ] soon
+- [ ] sort
+- [ ] sound
+- [ ] source
+- [ ] south
+- [ ] southern
+- [ ] space
+- [ ] speak
+- [ ] special
+- [ ] specific
+- [ ] speech
+- [ ] spend
+- [ ] sport
+- [ ] spring
+- [ ] staff
+- [ ] stage
+- [ ] stand
+- [ ] standard
+- [ ] star
+- [ ] start
+- [ ] state
+- [ ] statement
+- [ ] station
+- [X] stay
+- [ ] step
+- [ ] still
+- [ ] stock
+- [ ] stop
+- [ ] store
+- [ ] story
+- [ ] strategy
+- [ ] street
+- [X] strong
+- [X] structure
+- [ ] student
+- [ ] study
+- [ ] stuff
+- [ ] style
+- [ ] subject
+- [X] success
+- [X] successful
+- [ ] such
+- [ ] suddenly
+- [ ] suffer
+- [ ] suggest
+- [ ] summer
+- [ ] support
+- [ ] sure
+- [ ] surface
+- [ ] system
+- [ ] table
+- [ ] take
+- [ ] talk
+- [ ] task
+- [ ] tax
+- [ ] teach
+- [ ] teacher
+- [ ] team
+- [X] technology
+- [ ] television
+- [ ] tell
+- [ ] ten
+- [ ] tend
+- [ ] term
+- [ ] test
+- [ ] than
+- [ ] thank
+- [ ] that
+- [ ] the
+- [ ] their
+- [X] them
+- [ ] themselves
+- [ ] then
+- [ ] theory
+- [ ] there
+- [ ] these
+- [ ] they
+- [ ] thing
+- [ ] think
+- [ ] third
+- [ ] this
+- [ ] those
+- [ ] though
+- [X] thought
+- [ ] thousand
+- [ ] threat
+- [ ] three
+- [ ] through
+- [ ] throughout
+- [ ] throw
+- [ ] thus
+- [ ] time
+- [ ] to
+- [ ] today
+- [X] together
+- [ ] tonight
+- [ ] too
+- [ ] top
+- [ ] total
+- [ ] tough
+- [ ] toward
+- [ ] town
+- [ ] trade
+- [ ] traditional
+- [ ] training
+- [ ] travel
+- [ ] treat
+- [ ] treatment
+- [ ] tree
+- [ ] trial
+- [ ] trip
+- [ ] trouble
+- [ ] true
+- [X] truth
+- [ ] try
+- [ ] turn
+- [ ] TV
+- [ ] two
+- [ ] type
+- [ ] under
+- [ ] understand
+- [ ] unit
+- [ ] until
+- [ ] up
+- [ ] upon
+- [X] us
+- [X] use
+- [ ] usually
+- [X] value
+- [ ] various
+- [ ] very
+- [ ] victim
+- [ ] view
+- [ ] violence
+- [ ] visit
+- [ ] voice
+- [ ] vote
+- [ ] wait
+- [ ] walk
+- [ ] wall
+- [ ] want
+- [X] war
+- [ ] watch
+- [ ] water
+- [ ] way
+- [X] we
+- [ ] weapon
+- [ ] wear
+- [ ] week
+- [ ] weight
+- [ ] well
+- [ ] west
+- [ ] western
+- [ ] what
+- [ ] whatever
+- [ ] when
+- [ ] where
+- [ ] whether
+- [ ] which
+- [ ] while
+- [ ] white
+- [ ] who
+- [ ] whole
+- [ ] whom
+- [ ] whose
+- [ ] why
+- [ ] wide
+- [ ] wife
+- [ ] will
+- [ ] win
+- [ ] wind
+- [ ] window
+- [ ] wish
+- [ ] with
+- [ ] within
+- [ ] without
+- [ ] woman
+- [ ] wonder
+- [ ] word
+- [ ] work
+- [ ] worker
+- [ ] world
+- [ ] worry
+- [ ] would
+- [ ] write
+- [ ] writer
+- [ ] wrong
+- [ ] yard
+- [ ] yeah
+- [ ] year
+- [ ] yes
+- [ ] yet
+- [X] you
+- [ ] young
+- [X] your
+- [X] yourself
+
+## Other
+
+- [X] abandon
+- [X] achieve
+- [X] adapt
+- [X] advance
+- [X] afraid
+- [X] battle
+- [X] barrier
+- [X] being
+- [X] brain
+- [X] brave, bravery
+- [X] breathe
+- [X] capture
+- [X] chaos
+- [X] civilization
+- [X] clever
+- [X] collective
+- [X] complex
+- [X] conflict
+- [X] consequence
+- [X] contract
+- [X] courage
+- [X] danger
+- [X] destination
+- [X] destiny
+- [X] destroy, destruction
+- [X] deteriorate
+- [X] disorder
+- [X] distance
+- [X] deteriorate
+- [X] enlighten, enlightened, enlightenment
+- [X] evolution
+- [X] equal
+- [X] erode
+- [X] escape
+- [X] gain
+- [X] harm
+- [X] harmony
+- [X] hide
+- [X] ignore
+- [X] imperfect
+- [X] impure
+- [X] intelligent
+- [X] interrupt
+- [X] journey
+- [X] legacy
+- [X] liberate
+- [X] matter
+- [X] obstacle
+- [X] outcome
+- [X] progress
+- [X] repeat
+- [X] scared
+- [X] smart
+- [X] soul
+- [X] spirit
+- [X] self
+- [X] separate
+- [X] signal
+- [X] shell
+- [X] stability, stable
+- [X] struggle
+- [X] sustain
+- [X] unbounded
+- [X] unlimited
+- [X] weak
+- [X] worth

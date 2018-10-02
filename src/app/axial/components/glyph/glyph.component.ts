@@ -7,7 +7,17 @@ import { Glyph } from '@ax/axial/models';
   styleUrls: ['./glyph.component.scss']
 })
 export class GlyphComponent {
-  @Input() glyph: Glyph;
+  @Input() glyph: Glyph | Glyph[];
+  @Input() showGrid = false;
+
+  get glyphs(): Glyph[] {
+    if (!this.glyph) { return []; }
+    if (Array.isArray(this.glyph)) {
+      return this.glyph;
+    } else {
+      return [this.glyph];
+    }
+  }
 
   // nodes: [number, number][] = [
   //   [50, 5],
@@ -46,22 +56,17 @@ export class GlyphComponent {
   ];
 
   get lines(): [number, number, number, number][] {
-    const result = [];
-    if (this.glyph) {
-      let previousNode: number;
-      this.glyph.symbol.forEach((n: number) => {
-        if (previousNode !== undefined) {
-          const line = [
-            this.nodes[previousNode][0],
-            this.nodes[previousNode][1],
-            this.nodes[n][0],
-            this.nodes[n][1]
-          ];
-          result.push(line);
-        }
-        previousNode = n;
+    const result: [number, number, number, number][] = [];
+    this.glyphs.forEach(glyph => {
+      glyph.lines.forEach(l => {
+        result.push([
+          this.nodes[l[0]][0],
+          this.nodes[l[0]][1],
+          this.nodes[l[1]][0],
+          this.nodes[l[1]][1]
+        ]);
       });
-    }
+    });
     return result;
   }
 

@@ -1,0 +1,11 @@
+<div class="container">
+  <h1>Translator</h1>
+
+  <div class="form-group">
+    <input type="text" class="form-control" placeholder="Translate..." [(ngModel)]="translate">
+  </div>
+
+  <div class="row">
+    <ax-glyph class="col-sm-3" [glyph]="glyphs(sentence)" *ngFor="let sentence of sentences"></ax-glyph>
+  </div>
+</div>

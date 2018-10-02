@@ -23,6 +23,5 @@ export class SearchResultsComponent {
 
   choose(option) {
     this.displayMode = option.value;
-    console.log('facer');
   }
 }

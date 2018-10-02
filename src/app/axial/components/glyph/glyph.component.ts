@@ -59,7 +59,6 @@ export class GlyphComponent implements OnChanges {
   rebuildSvg() {
     const newSvg = this.createSVGElement('svg', { viewBox: '0 0 100 100' });
     newSvg.setAttribute('xmlns', 'http://www.w3.org/2000/svg');
-    console.log(newSvg);
     this.nodes.forEach(node => {
       const circle = this.createSVGElement('circle', { r: 2, cx: node[0], cy: node[1] });
       newSvg.appendChild(circle);
@@ -81,7 +80,6 @@ export class GlyphComponent implements OnChanges {
     });
 
     this.svg = this.sanitizer.bypassSecurityTrustResourceUrl('data:image/svg+xml;base64,' + btoa(newSvg.outerHTML));
-    console.log('svg', this.svg);
   }
 
   get lines(): [number, number, number, number][] {

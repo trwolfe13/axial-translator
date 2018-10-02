@@ -65,26 +65,21 @@ export class GlyphComponent implements OnChanges {
     });
 
     this.glyphs.forEach(glyph => {
-      glyph.lines.forEach(l => {
-        const line = this.createSVGElement('line', {
-          x1: this.nodes[l[0]][0],
-          y1: this.nodes[l[0]][1],
-          x2: this.nodes[l[1]][0],
-          y2: this.nodes[l[1]][1],
-          stroke: 'black',
-          'stroke-width': 4,
-          'stroke-linecap': 'round'
-        });
-        newSvg.appendChild(line);
+      const line = this.createSVGElement('polyline', {
+        points: this.mapPoints(glyph.symbol),
+        fill: 'none',
+        stroke: 'black',
+        'stroke-width': 4,
+        'stroke-linecap': 'round',
+        'stroke-linejoin': 'round'
       });
+      newSvg.appendChild(line);
     });
 
     this.svg = this.sanitizer.bypassSecurityTrustResourceUrl('data:image/svg+xml;base64,' + btoa(newSvg.outerHTML));
   }
 
-  get lines(): [number, number, number, number][] {
-    const result: [number, number, number, number][] = [];
-
-    return result;
+  mapPoints(symbol: number[]): string {
+    return symbol.map(p => `${this.nodes[p][0]},${this.nodes[p][1]}`).join(' ');
   }
 }

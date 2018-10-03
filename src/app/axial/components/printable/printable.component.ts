@@ -6,10 +6,11 @@ import { AppState } from '@ax/core/store';
 import { Store } from '@ngrx/store';
 
 @Component({
-  selector: 'ax-search',
-  templateUrl: './search.component.html'
+  selector: 'ax-printable',
+  templateUrl: './printable.component.html',
+  styleUrls: ['./printable.component.scss'],
 })
-export class SearchComponent {
+export class PrintableComponent {
   glyphs: Glyph[];
 
   constructor(private store: Store<AppState>, private titleCase: TitleCasePipe) {

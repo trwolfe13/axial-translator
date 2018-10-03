@@ -1,0 +1,12 @@
+h1 {
+  color: black;
+}
+
+::ng-deep {
+  .card-title {
+    color: black !important;
+  }
+  .card-text {
+    color: black !important;
+  }
+}

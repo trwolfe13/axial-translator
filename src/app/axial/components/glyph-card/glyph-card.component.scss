@@ -1,0 +1,11 @@
+:host {
+  display: inline-block;
+}
+
+.card-body {
+  padding: 1rem;
+}
+
+.card-body.image {
+  padding-bottom: 0;
+}

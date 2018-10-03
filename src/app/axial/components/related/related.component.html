@@ -1,6 +1,4 @@
 <div class="container">
   <h1>{{name | async | titlecase}}</h1>
-
-  <ax-search-result [glyph]="glyph" *ngFor="let glyph of related | async"></ax-search-result>
-
+  <ax-glyph-card [glyph]="glyph" *ngFor="let glyph of related | async"></ax-glyph-card>
 </div>

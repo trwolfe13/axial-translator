@@ -10,6 +10,8 @@ import { DomSanitizer, SafeResourceUrl } from '@angular/platform-browser';
 export class GlyphComponent implements OnChanges {
   @Input() glyph: Glyph | Glyph[];
   @Input() showGrid = false;
+  @Input() glyphColor: string;
+  @Input() gridColor: string;
 
   svg: SafeResourceUrl;
 
@@ -62,7 +64,7 @@ export class GlyphComponent implements OnChanges {
 
     if (this.showGrid) {
       this.nodes.forEach(node => {
-        const circle = this.createSVGElement('circle', { r: 2, cx: node[0], cy: node[1] });
+        const circle = this.createSVGElement('circle', { r: 2, cx: node[0], cy: node[1], fill: this.gridColor || '#555' });
         newSvg.appendChild(circle);
       });
     }
@@ -71,7 +73,7 @@ export class GlyphComponent implements OnChanges {
       const line = this.createSVGElement('polyline', {
         points: this.mapPoints(glyph.symbol),
         fill: 'none',
-        stroke: 'black',
+        stroke: this.glyphColor || 'white',
         'stroke-width': 4,
         'stroke-linecap': 'round',
         'stroke-linejoin': 'round'

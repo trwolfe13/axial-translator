@@ -1,13 +1,12 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { RelatedComponent } from '@ax/axial/components';
-import { SearchComponent } from '@ax/axial/components/search';
-import { TranslatorComponent } from '@ax/axial/components/translator';
+import * as Components from '@ax/axial/components';
 
 const axialRoutes: Routes = [
-  { path: '', component: SearchComponent },
-  { path: 'related/:glyph', component: RelatedComponent },
-  { path: 'translate', component: TranslatorComponent }
+  { path: '', component: Components.SearchComponent },
+  { path: 'related/:glyph', component: Components.RelatedComponent },
+  { path: 'translate', component: Components.TranslatorComponent },
+  { path: 'print', component: Components.PrintableComponent }
 ];
 
 @NgModule({

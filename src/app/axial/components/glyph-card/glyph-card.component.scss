@@ -1,5 +1,9 @@
 :host {
   display: inline-block;
+
+  ::ng-deep ax-glyph {
+    display: block;
+  }
 }
 
 .card-body {

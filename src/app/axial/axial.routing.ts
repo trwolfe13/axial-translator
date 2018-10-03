@@ -4,7 +4,7 @@ import * as Components from '@ax/axial/components';
 
 const axialRoutes: Routes = [
   { path: '', component: Components.SearchComponent },
-  { path: 'related/:glyph', component: Components.RelatedComponent },
+  { path: 'details/:glyph', component: Components.DetailsComponent },
   { path: 'translate', component: Components.TranslatorComponent },
   { path: 'print', component: Components.PrintableComponent }
 ];

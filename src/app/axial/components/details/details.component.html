@@ -1,0 +1,8 @@
+<div class="container">
+  <h1>
+    <ax-glyph [glyph]="glyph"></ax-glyph>{{name | async | titlecase}}
+  </h1>
+  <ax-glyph-card *ngIf="glyph" [glyph]="glyph"></ax-glyph-card>
+  <h2>Related</h2>
+  <ax-glyph-cards [glyphs]="related | async"></ax-glyph-cards>
+</div>

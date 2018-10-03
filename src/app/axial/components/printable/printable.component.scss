@@ -1,12 +1,14 @@
 h1 {
-  color: black;
+  color: black !important;
 }
 
-::ng-deep {
-  .card-title {
-    color: black !important;
-  }
-  .card-text {
-    color: black !important;
+:host {
+  ::ng-deep {
+    .card-title a {
+      color: black !important;
+    }
+    .card-text {
+      color: black !important;
+    }
   }
 }

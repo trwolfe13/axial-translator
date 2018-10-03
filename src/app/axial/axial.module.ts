@@ -9,13 +9,13 @@ import * as Components from './components';
 import { axialFeature, axialReducer, effects } from './store';
 
 const COMPONENTS = [
+  Components.DetailsComponent,
   Components.GlyphComponent,
   Components.GlyphCardComponent,
   Components.GlyphCardsComponent,
   Components.SearchComponent,
   Components.FilterComponent,
   Components.PrintableComponent,
-  Components.RelatedComponent,
   Components.TranslatorComponent,
 ];
 

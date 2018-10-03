@@ -3,7 +3,7 @@
     <ax-glyph [glyph]="glyph" showGrid="true" [glyphColor]="color"></ax-glyph>
   </div>
   <div class="card-body">
-    <h4 class="card-title">{{ glyph.meanings[0] | titlecase }}</h4>
+    <h4 class="card-title"><a [routerLink]="['/details', glyph.meanings[0]]">{{ glyph.meanings[0] | titlecase }}</a></h4>
     <p class="card-text">{{ synonyms(glyph) }}&nbsp;</p>
   </div>
 </div>

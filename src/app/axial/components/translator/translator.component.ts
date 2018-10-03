@@ -17,7 +17,7 @@ export class TranslatorComponent {
   }
 
   get sentences(): string[] {
-    return (this.translate || '').split('.').filter(s => s);
+    return (this.translate || '').toLowerCase().split('.').filter(s => s);
   }
 
   glyphs(sentence: string): Glyph[] {

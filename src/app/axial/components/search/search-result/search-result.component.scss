@@ -1,7 +1,7 @@
 $image-size: 64px;
 $padding: 8px;
 
-.result {
+:host {
   display: flex;
   flex-direction: row;
   height: $image-size + $padding * 2;

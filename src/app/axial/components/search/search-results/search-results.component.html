@@ -1,8 +1,13 @@
-<div class="display">
-  <div class="btn-group btn-group-toggle form-group">
-    <label class="btn btn-secondary" (click)="choose(option)" [ngClass]="option.value === displayMode ? 'active' : ''" *ngFor="let option of displayModes">
-      <input type="radio" name="options"><i class="fa" [ngClass]="option.icon"></i>
-    </label>
+<div class="display" style="display: flex">
+  <div class="w-100">
+
+  </div>
+  <div>
+    <div class="btn-group btn-group-toggle form-group">
+      <label class="btn btn-secondary" (click)="choose(option)" [ngClass]="option.value === displayMode ? 'active' : ''" *ngFor="let option of displayModes">
+        <input type="radio" name="options"><i class="fa" [ngClass]="option.icon"></i>
+      </label>
+    </div>
   </div>
 </div>
 <div class="search-results" [ngClass]="displayMode">

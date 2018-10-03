@@ -59,10 +59,13 @@ export class GlyphComponent implements OnChanges {
   rebuildSvg() {
     const newSvg = this.createSVGElement('svg', { viewBox: '0 0 100 100' });
     newSvg.setAttribute('xmlns', 'http://www.w3.org/2000/svg');
-    this.nodes.forEach(node => {
-      const circle = this.createSVGElement('circle', { r: 2, cx: node[0], cy: node[1] });
-      newSvg.appendChild(circle);
-    });
+
+    if (this.showGrid) {
+      this.nodes.forEach(node => {
+        const circle = this.createSVGElement('circle', { r: 2, cx: node[0], cy: node[1] });
+        newSvg.appendChild(circle);
+      });
+    }
 
     this.glyphs.forEach(glyph => {
       const line = this.createSVGElement('polyline', {

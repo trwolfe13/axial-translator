@@ -3,8 +3,16 @@
     display: none !important;
   }
 
+  ax-search-result, .result-body, .result-image, .result-synonyms, ax-glyph {
+    page-break-inside: avoid !important;
+  }
+
   a {
     text-decoration: none !important;
+  }
+
+  .display {
+    display: none !important;
   }
 
   .container {

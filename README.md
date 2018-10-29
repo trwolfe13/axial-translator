@@ -1,6 +1,6 @@
 # Axial
 
-[See it Running Here!](http://twolfe.co.uk/axial)
+[See it Running Here!](http://axial.twolfe.co.uk)
 
 Axial is a translator for a language I made up based on Ingress Glyphs. In my homebrew D&D campaign, it is written by the Modrons in the plane of Mechanus.
 
